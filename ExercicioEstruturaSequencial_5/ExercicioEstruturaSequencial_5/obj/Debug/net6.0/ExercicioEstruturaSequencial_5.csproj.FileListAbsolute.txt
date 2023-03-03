@@ -1,0 +1,15 @@
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\bin\Debug\net6.0\ExercicioEstruturaSequencial_5.exe
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\bin\Debug\net6.0\ExercicioEstruturaSequencial_5.deps.json
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\bin\Debug\net6.0\ExercicioEstruturaSequencial_5.runtimeconfig.json
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\bin\Debug\net6.0\ExercicioEstruturaSequencial_5.dll
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\bin\Debug\net6.0\ExercicioEstruturaSequencial_5.pdb
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.csproj.AssemblyReference.cache
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.AssemblyInfoInputs.cache
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.AssemblyInfo.cs
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.csproj.CoreCompileInputs.cache
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.dll
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\refint\ExercicioEstruturaSequencial_5.dll
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.pdb
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ExercicioEstruturaSequencial_5.genruntimeconfig.cache
+C:\DEV-C#\ExercicioEstruturaSequencial_5\ExercicioEstruturaSequencial_5\obj\Debug\net6.0\ref\ExercicioEstruturaSequencial_5.dll

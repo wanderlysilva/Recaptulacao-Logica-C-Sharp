@@ -1,0 +1,15 @@
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\bin\Debug\net6.0\ExercíciosEstruturaCondicional_3.exe
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\bin\Debug\net6.0\ExercíciosEstruturaCondicional_3.deps.json
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\bin\Debug\net6.0\ExercíciosEstruturaCondicional_3.runtimeconfig.json
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\bin\Debug\net6.0\ExercíciosEstruturaCondicional_3.dll
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\bin\Debug\net6.0\ExercíciosEstruturaCondicional_3.pdb
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.csproj.AssemblyReference.cache
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.AssemblyInfoInputs.cache
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.AssemblyInfo.cs
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.csproj.CoreCompileInputs.cache
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.dll
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\refint\ExercíciosEstruturaCondicional_3.dll
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.pdb
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ExercíciosEstruturaCondicional_3.genruntimeconfig.cache
+C:\DEV-C#\ExercíciosEstruturaCondicional_3\ExercíciosEstruturaCondicional_3\obj\Debug\net6.0\ref\ExercíciosEstruturaCondicional_3.dll

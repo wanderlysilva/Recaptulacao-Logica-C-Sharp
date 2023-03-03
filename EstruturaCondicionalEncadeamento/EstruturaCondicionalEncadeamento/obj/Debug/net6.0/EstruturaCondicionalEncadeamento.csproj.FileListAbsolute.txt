@@ -1,0 +1,15 @@
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\bin\Debug\net6.0\EstruturaCondicionalEncadeamento.exe
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\bin\Debug\net6.0\EstruturaCondicionalEncadeamento.deps.json
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\bin\Debug\net6.0\EstruturaCondicionalEncadeamento.runtimeconfig.json
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\bin\Debug\net6.0\EstruturaCondicionalEncadeamento.dll
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\bin\Debug\net6.0\EstruturaCondicionalEncadeamento.pdb
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.csproj.AssemblyReference.cache
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.AssemblyInfoInputs.cache
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.AssemblyInfo.cs
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.csproj.CoreCompileInputs.cache
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.dll
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\refint\EstruturaCondicionalEncadeamento.dll
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.pdb
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\EstruturaCondicionalEncadeamento.genruntimeconfig.cache
+C:\DEV-C#\EstruturaCondicionalEncadeamento\EstruturaCondicionalEncadeamento\obj\Debug\net6.0\ref\EstruturaCondicionalEncadeamento.dll
